@@ -1,0 +1,19 @@
+{
+  "name": "demo",
+  "version": "12.18.0",
+  "description": "simple demo",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haritha2205/node.git"
+  },
+  "author": "haritha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Haritha2205/node/issues"
+  },
+  "homepage": "https://github.com/Haritha2205/node#readme"
+}

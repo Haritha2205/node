@@ -26,6 +26,3 @@ http.createServer(function (req, res) {
     });
 
 }).listen(PORT);
-    
-    
-console.log("Server Started....");
